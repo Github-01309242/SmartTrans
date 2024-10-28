@@ -40,6 +40,7 @@ static TaskComps_t g_taskComps[] =
   {0, 1000, 1000,  Sensor_Task  },
   {0, 100,  100,   AnalogOutTask   },
   {0, 3000, 3000,  LED_Test   }
+  {0, 4000, 4000,  LED_Test   }
 	/* ����ҵ����ģ�� */
 };
 
