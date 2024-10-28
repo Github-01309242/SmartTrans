@@ -39,7 +39,7 @@ static TaskComps_t g_taskComps[] =
   {0, 10,   10,    ModbusTask  },
   {0, 1000, 1000,  Sensor_Task  },
   {0, 100,  100,   AnalogOutTask   },
-  {0, 1000, 1000,  LED_Test   }
+  {0, 2000, 2000,  LED_Test   }
 	/* 添加业务功能模块 */
 };
 
